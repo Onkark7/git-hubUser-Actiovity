@@ -1,1 +1,1 @@
-# git-hubUser-Actiovity
+# git-hubUser-Activity
